@@ -3,5 +3,34 @@
         "items": ["Home", "Explore", "Shorts", "Mindblown", "Premium"],
         "searchPlaceHolder": "Search for a show, episode, shorts etc.",
         "buttonLable": "Sign In"
-    }
+    },
+    "category": [
+        {
+            "text": "Adventure"
+        },
+        {
+            "text": "Animals"
+        },
+        {
+            "text": "Auto"
+        },
+        {
+            "text": "Adventure"
+        },
+        {
+            "text": "Animals"
+        },
+        {
+            "text": "Auto"
+        },
+        {
+            "text": "Adventure"
+        },
+        {
+            "text": "Animals"
+        },
+        {
+            "text": "Auto"
+        }
+    ]
 }
