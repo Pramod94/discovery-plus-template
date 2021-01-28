@@ -1,0 +1,7 @@
+{
+    "navBar": {
+        "items": ["Home", "Explore", "Shorts", "Mindblown", "Premium"],
+        "searchPlaceHolder": "Search for a show, episode, shorts etc.",
+        "buttonLable": "Sign In"
+    }
+}
